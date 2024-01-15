@@ -1,0 +1,577 @@
+{
+   "BTC": [
+      "Bitcoin"
+   ],
+   "USDT": [
+      "Tether",
+      "US Dollar Tether"
+   ],
+   "ETH": [
+      "Ethereum"
+   ],
+   "BCH": [
+      "Bitcoin Cash"
+   ],
+   "XRP": [
+      "Ripple"
+   ],
+   "EOS": [
+      "EOS.IO"
+   ],
+   "LTC": [
+      "Litecoin"
+   ],
+   "TRX": [
+      "TRON"
+   ],
+   "ETC": [
+      "Ethereum Classic"
+   ],
+   "LINK": [
+      "Chainlink"
+   ],
+   "XLM": [
+      "Stellar Lumens"
+   ],
+   "ADA": [
+      "Cardano"
+   ],
+   "XMR": [
+      "Monero"
+   ],
+   "DASH": [
+      "Dash"
+   ],
+   "ZEC": [
+      "Zcash"
+   ],
+   "XTZ": [
+      "Tezos"
+   ],
+   "BNB": [
+      "Binance Coin"
+   ],
+   "ATOM": [
+      "Cosmos"
+   ],
+   "ONT": [
+      "Ontology"
+   ],
+   "IOTA": [
+      "IOTA"
+   ],
+   "BAT": [
+      "Basic Attention Token"
+   ],
+   "VET": [
+      "VeChain"
+   ],
+   "QTUM": [
+      "Qtum"
+   ],
+   "IOST": [
+      "IOST"
+   ],
+   "THETA": [
+      "Theta Network"
+   ],
+   "ALGO": [
+      "Algorand"
+   ],
+   "ZIL": [
+      "Zilliqa"
+   ],
+   "KNC": [
+      "Kyber Network Crystal"
+   ],
+   "ZRX": [
+      "0x"
+   ],
+   "COMP": [
+      "Compound"
+   ],
+   "OMG": [
+      "OMG Network",
+      "OmiseGO"
+   ],
+   "DOGE": [
+      "Dogecoin"
+   ],
+   "SXP": [
+      "Swipe"
+   ],
+   "KAVA": [
+      "Kava.io"
+   ],
+   "BAND": [
+      "Band Protocol"
+   ],
+   "RLC": [
+      "iExec RLC"
+   ],
+   "WAVES": [
+      "Waves"
+   ],
+   "MKR": [
+      "Maker"
+   ],
+   "SNX": [
+      "Synthetix"
+   ],
+   "DOT": [
+      "Polkadot"
+   ],
+   "YFI": [
+      "yearn.finance"
+   ],
+   "BAL": [
+      "Balancer"
+   ],
+   "CRV": [
+      "Curve DAO Token"
+   ],
+   "RUNE": [
+      "Thorchain"
+   ],
+   "SUSHI": [
+      "SushiSwap"
+   ],
+   "EGLD": [
+      "Elrond"
+   ],
+   "SOL": [
+      "Solana"
+   ],
+   "UNI": [
+      "Uniswap"
+   ],
+   "AVAX": [
+      "Avalanche"
+   ],
+   "FTM": [
+      "Fantom"
+   ],
+   "FLM": [
+      "Flamingo Finance"
+   ],
+   "REN": [
+      "Ren"
+   ],
+   "KSM": [
+      "Kusama"
+   ],
+   "NEAR": [
+      "NEAR Protocol"
+   ],
+   "AAVE": [
+      "Aave"
+   ],
+   "FIL": [
+      "Filecoin"
+   ],
+   "LRC": [
+      "Loopring"
+   ],
+   "MATIC": [
+      "Polygon",
+      "Matic Network"
+   ],
+   "OCEAN": [
+      "Ocean Protocol"
+   ],
+   "AXS": [
+      "Axie Infinity"
+   ],
+   "ZEN": [
+      "Horizen"
+   ],
+   "SKL": [
+      "SKALE Network"
+   ],
+   "GRT": [
+      "The Graph"
+   ],
+   "1INCH": [
+      "1inch"
+   ],
+   "CHZ": [
+      "Chiliz"
+   ],
+   "SAND": [
+      "The Sandbox"
+   ],
+   "ANKR": [
+      "Ankr"
+   ],
+   "LIT": [
+      "Litentry"
+   ],
+   "REEF": [
+      "Reef Finance"
+   ],
+   "COTI": [
+      "COTI"
+   ],
+   "CHR": [
+      "Chromia"
+   ],
+   "MANA": [
+      "Decentraland"
+   ],
+   "ALICE": [
+      "My Neighbor Alice"
+   ],
+   "ONE": [
+      "Harmony"
+   ],
+   "LINA": [
+      "Linear Finance"
+   ],
+   "STMX": [
+      "StormX"
+   ],
+   "DENT": [
+      "Dent"
+   ],
+   "CELR": [
+      "Celer Network"
+   ],
+   "HOT": [
+      "Holo"
+   ],
+   "MTL": [
+      "Metal"
+   ],
+   "OGN": [
+      "Origin Protocol"
+   ],
+   "1000SHIB": [
+      "1000 Shiba Inu"
+   ],
+   "IOTX": [
+      "IoTeX"
+   ],
+   "AUDIO": [
+      "Audius"
+   ],
+   "C98": [
+      "Coin98"
+   ],
+   "MASK": [
+      "Mask Network"
+   ],
+   "ATA": [
+      "Automata"
+   ],
+   "DYDX": [
+      "dYdX"
+   ],
+   "1000XEC": [
+      "1000XEC"
+   ],
+   "GALA": [
+      "Gala"
+   ],
+   "CELO": [
+      "Celo"
+   ],
+   "AR": [
+      "Arweave"
+   ],
+   "KLAY": [
+      "Klaytn"
+   ],
+   "ARPA": [
+      "ARPA Chain"
+   ],
+   "ENS": [
+      "Ethereum Name Service"
+   ],
+   "PEOPLE": [
+      "People"
+   ],
+   "ANT": [
+      "Aragon"
+   ],
+   "ROSE": [
+      "Oasis Network"
+   ],
+   "DUSK": [
+      "Dusk Network"
+   ],
+   "FLOW": [
+      "Flow"
+   ],
+   "IMX": [
+      "Immutable X"
+   ],
+   "API3": [
+      "API3"
+   ],
+   "GMT": [
+      "Mirrored Google Token"
+   ],
+   "APE": [
+      "APE Token"
+   ],
+   "WOO": [
+      "Wootrade"
+   ],
+   "JASMY": [
+      "JasmyCoin"
+   ],
+   "DAR": [
+      "Darwinia Network"
+   ],
+   "GAL": [
+      "Galatasaray Fan Token"
+   ],
+   "OP": [
+      "OptionRoom"
+   ],
+   "INJ": [
+      "Injective Protocol"
+   ],
+   "STG": [
+      "Stargaze"
+   ],
+   "SPELL": [
+      "Spell Token"
+   ],
+   "1000LUNC": [
+      "1000LUNA"
+   ],
+   "LUNA2": [
+      "Terra",
+      "LUNA"
+   ],
+   "LDO": [
+      "Lido DAO Token"
+   ],
+   "CVX": [
+      "Convex Finance"
+   ],
+   "APT": [
+      "Deversifi"
+   ],
+   "QNT": [
+      "Quant"
+   ],
+   "RNDR": [
+      "Render Token"
+   ],
+   "ARB": [
+      "Arbor"
+   ],
+   "JOE": [
+      "Trader Joe"
+   ],
+   "SUI": [
+      "Suterusu"
+   ],
+   "1000PEPE": [
+      "1000PEPE"
+   ],
+   "ASTR": [
+      "Astronaut"
+   ],
+   "SSV": [
+      "Sliver SSV"
+   ],
+   "PHB": [
+      "Red Pulse Phoenix Binance"
+   ],
+   "GTC": [
+      "Gitcoin"
+   ],
+   "CTSI": [
+      "Cartesi"
+   ],
+   "T": [
+      "Tendies"
+   ],
+   "RDNT": [
+      "Radicle"
+   ],
+   "AMB": [
+      "Ambrosus"
+   ],
+   "BEL": [
+      "Bella Protocol"
+   ],
+   "AGIX": [
+      "SingularityNET"
+   ],
+   "HBAR": [
+      "Hedera Hashgraph"
+   ],
+   "XVS": [
+      "Venus"
+   ],
+   "RAD": [
+      "Radicle"
+   ],
+   "KEY": [
+      "SelfKey"
+   ],
+   "RSR": [
+      "Reserve Rights Token"
+   ],
+   "ID": [
+      "Everest"
+   ],
+   "NKN": [
+      "NKN"
+   ],
+   "HFT": [
+      "HoloFuel"
+   ],
+   "STX": [
+      "Stacks"
+   ],
+   "UMA": [
+      "UMA"
+   ],
+   "TRU": [
+      "TrueFi"
+   ],
+   "BAKE": [
+      "BakeryToken"
+   ],
+   "HIGH": [
+      "Highstreet"
+   ],
+   "COMBO": [
+      "PowerPool Concentrated Voting Power"
+   ],
+   "ALPHA": [
+      "Alpha Finance Lab"
+   ],
+   "LEVER": [
+      "Leverj"
+   ],
+   "XEM": [
+      "NEM"
+   ],
+   "MDT": [
+      "Measurable Data Token"
+   ],
+   "1000FLOKI": [
+      "1000FLOKI"
+   ],
+   "MINA": [
+      "Mina Protocol"
+   ],
+   "CFX": [
+      "Conflux Network"
+   ],
+   "TLM": [
+      "Alien Worlds",
+      "TLM"
+   ],
+   "CTK": [
+      "CertiK"
+   ],
+   "CKB": [
+      "Nervos Network"
+   ],
+   "GMX": [
+      "Governance Metrics International"
+   ],
+   "SFP": [
+      "SafePal"
+   ],
+   "NMR": [
+      "Numeraire"
+   ],
+   "FET": [
+      "Fetch.ai"
+   ],
+   "MAGIC": [
+      "Magic Internet Money"
+   ],
+   "ICX": [
+      "ICON"
+   ],
+   "DGB": [
+      "DigiByte"
+   ],
+   "EDU": [
+      "EduCoin"
+   ],
+   "USDC": [
+      "USD Coin"
+   ],
+   "ACH": [
+      "Alchemy Pay"
+   ],
+   "LQTY": [
+      "Liquity"
+   ],
+   "BLUR": [
+      "Blur Network"
+   ],
+   "FXS": [
+      "Frax Share"
+   ],
+   "ICP": [
+      "Internet Computer"
+   ],
+   "HOOK": [
+      "HOOK Token"
+   ],
+   "RVN": [
+      "Ravencoin"
+   ],
+   "IDEX": [
+      "IDEX"
+   ],
+   "NEO": [
+      "Neo"
+   ],
+   "WLD": [
+      "World Token"
+   ],
+   "PENDLE": [
+      "Pendle"
+   ],
+   "ARKM": [
+      "ArkMoney"
+   ],
+   "AGLD": [
+      "Adventure Gold"
+   ],
+   "TIA": [
+      "Tidal Finance"
+   ],
+   "ORDI": [
+      "Orion Protocol"
+   ],
+   "KAS": [
+      "Kambria Yield Tun"
+   ],
+   "1000BONK": [
+      "1000BONK"
+   ],
+   "PYTH": [
+      "PYTH Network"
+   ],
+   "ILV": [
+      "Illuvium"
+   ],
+   "MEME": [
+      "Meme"
+   ],
+   "BEAMX": [
+      "Beam Exchange"
+   ],
+   "USTC": [
+      "Ultimate Secure Cash"
+   ],
+   "SEI": [
+      "Serum Ecosystem Token"
+   ],
+   "JTO": [
+      "Jupiter Orbit Token"
+   ]
+}
